@@ -1,90 +1,154 @@
 <div align="center">
 
-# Tanmoy Chakraborty
-### Data Analyst · ML & Deep Learning Practitioner · Open Source Contributor
+# ⚡ TANMOY CHAKRABORTY
 
-🚀 *"Translating complex data into production-grade Machine Learning & Deep Learning architectures — documenting 100+ hands-on projects to scale intelligent systems."*
+### `Data Analyst` · `ML & Deep Learning Practitioner` · `Open Source Contributor`
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=20\&pause=1000\&color=00F0FF\&center=true\&vcenter=true\&width=650\&lines=Translating+Complex+Data+into+Production+ML%2FDL;Documenting+100%2B+Hands-On+Open-Source+Projects;Building+Scalable+Neural+Architectures;Bridging+Data+Analysis+%26+Production+AI)](https://git.io/typing-svg)
 
----
+<br>
 
-### 👋 Who I Am
-
-I'm **Tanmoy Chakraborty** — a **Data Analyst at HCLTech** based in Lucknow, India. 
-
-* **What I Do:** I analyze complex data patterns, build statistical models, and design Machine Learning & Deep Learning solutions.
-* **Open Source & Knowledge Sharing:** I systematically build, document, and share end-to-end ML/DL projects to make practical AI implementations accessible.
-* **Engineering Focus:** Bridging the gap between raw data analysis and production-ready ML systems.
-
-
-name:        Tanmoy Chakraborty
-role:        Data Analyst
-company:     HCLTech
-location:    Lucknow, India
-experience:  2+ years in Tech · 1+ year in ML/DL
-focus:       Machine Learning · Deep Learning · MLOps
-repos:       100+ ML Projects Repository
-learning:    Advanced ML Engineering & Scalable Inference
-
-
-### 🔭 Currently Building & Learning
-
-#### 🛠️ Building
-- 🤖 **100 ML Projects:** Curating an extensive, hands-on repository of Machine Learning models and pipelines.
-- 🧠 **Deep Learning Repository:** End-to-end computer vision and neural network architectures with clean code and tutorials.
-- 📊 **Analytical Workflows:** Enterprise data analytics solutions and data pipelines.
-
-#### 🌱 Learning & Exploring
-- ⚡ **ML Engineering:** Scalable model deployment, API containerization, and monitoring.
-- 🔬 **Advanced DL Models:** Transformers, LLM fine-tuning, and optimized inference architectures.
-
----
-
-### 🧰 Tech Stack
-
-#### 🧠 Languages & Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### 🤖 AI / ML / Deep Learning
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-#### ☁️ Data & Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-### 📌 Featured Repositories
-
-| Repository | Focus | Description |
-| :--- | :---: | :--- |
-| **[100projects](https://github.com/The-ml-guy/100projects)** | ML / DL | A comprehensive collection of 100 practical Machine Learning & Data Science projects. |
-| **[DeepLearning_Projects](https://github.com/The-ml-guy/DeepLearning_Projects)** | Neural Networks | Practical implementations of neural network architectures, Computer Vision, and NLP tasks. |
-
----
-
-### 📊 GitHub Metrics & Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=The-ml-guy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-ml-guy&layout=compact&theme=dark&hide_border=false"/>
+[![GitHub Followers](https://img.shields.io/github/followers/The-ml-guy?style=for-the-badge\&logo=github\&color=00F0FF\&labelColor=101010)](https://github.com/The-ml-guy)
+[![GitHub Stars](https://img.shields.io/github/stars/The-ml-guy?style=for-the-badge\&logo=github\&color=FFD700\&labelColor=101010)](https://github.com/The-ml-guy?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=The-ml-guy\&style=for-the-badge\&color=00F0FF\&label=PROFILE+VIEWS)](https://github.com/The-ml-guy)
 
 </div>
 
 ---
 
+## 💻 `whoami --verbose`
+
+```bash
+$ cat status.json
+
+{
+  "name": "Tanmoy Chakraborty",
+  "handle": "@The-ml-guy",
+  "role": "Data Analyst @ HCLTech → ML Engineer",
+  "location": "Lucknow, India",
+  "experience": "2+ Years in Tech | 1+ Year in ML & Deep Learning",
+  "focus": "Machine Learning · Deep Learning · MLOps",
+  "mission": "Bridging the gap between raw data analysis and production-ready ML systems."
+}
+```
+
+---
+
+## 🔭 Currently Building & Learning
+
+| Area                          | Focus                                                                                          |
+| ----------------------------- | ---------------------------------------------------------------------------------------------- |
+| 🤖 **100projects**            | Curating an extensive collection of 100+ practical Machine Learning and Data Science projects. |
+| ⚡ **ML Engineering**          | Model deployment, API development, containerization, scalability, and monitoring.              |
+| 🧠 **DeepLearning_Projects**  | End-to-end neural networks, Computer Vision, NLP, and Deep Learning implementations.           |
+| 🔬 **Advanced Deep Learning** | Transformers, LLMs, fine-tuning, optimization, and efficient inference.                        |
+| 📊 **Data Analytics**         | Data analysis, business intelligence, analytical workflows, and data pipelines.                |
+
+---
+
+## 🧰 Tech Stack & Arsenal
+
+### 🧠 Languages & Core
+
+![Python](https://img.shields.io/badge/Python-101010?style=for-the-badge\&logo=python\&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-101010?style=for-the-badge\&logo=postgresql\&logoColor=4169E1)
+![Git](https://img.shields.io/badge/Git-101010?style=for-the-badge\&logo=git\&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-101010?style=for-the-badge\&logo=linux\&logoColor=FCC624)
+
+### 🤖 AI / ML / Deep Learning
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-101010?style=for-the-badge\&logo=scikit-learn\&logoColor=F7931E)
+![PyTorch](https://img.shields.io/badge/PyTorch-101010?style=for-the-badge\&logo=pytorch\&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-101010?style=for-the-badge\&logo=tensorflow\&logoColor=FF6F00)
+![OpenCV](https://img.shields.io/badge/OpenCV-101010?style=for-the-badge\&logo=opencv\&logoColor=5C3EE8)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-101010?style=for-the-badge\&logo=huggingface\&logoColor=FFD21E)
+
+### ☁️ Data & Development Tools
+
+![Docker](https://img.shields.io/badge/Docker-101010?style=for-the-badge\&logo=docker\&logoColor=2496ED)
+![Jupyter](https://img.shields.io/badge/Jupyter-101010?style=for-the-badge\&logo=jupyter\&logoColor=F37626)
+![VS Code](https://img.shields.io/badge/VS%20Code-101010?style=for-the-badge\&logo=visual-studio-code\&logoColor=007ACC)
+![GitHub](https://img.shields.io/badge/GitHub-101010?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
+
+---
+
+## 📌 Featured Repositories
+
+| Repository                   | Focus             | Description                                                                                          |
+| ---------------------------- | ----------------- | ---------------------------------------------------------------------------------------------------- |
+| 🚀 **100projects**           | ML / Data Science | A growing collection of practical Machine Learning and Data Science projects.                        |
+| 🧠 **DeepLearning_Projects** | Neural Networks   | Practical implementations of neural networks, Computer Vision, NLP, and Deep Learning architectures. |
+
+---
+
+## 🎯 What I'm Working Toward
+
+```text
+Data Analysis
+      │
+      ▼
+Machine Learning
+      │
+      ▼
+Deep Learning
+      │
+      ▼
+MLOps & Model Deployment
+      │
+      ▼
+Production AI Systems
+```
+
+My goal is not just to train models.
+
+**I want to understand the entire journey from data → model → deployment → production.**
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-Thanks for visiting — let's connect and build intelligent systems together!  
-⭐️ *If you find my work useful, consider following or starring my repos.*
+<img src="https://github-readme-stats.vercel.app/api?username=The-ml-guy&show_icons=true&theme=transparent&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-ml-guy&layout=compact&theme=transparent&hide_border=true&title_color=00F0FF&text_color=FFFFFF" height="170">
+
+</div>
+
+---
+
+## 🧠 Current Interests
+
+```text
+Machine Learning
+Deep Learning
+Computer Vision
+Large Language Models
+LLM Fine-Tuning
+LoRA / QLoRA
+RAG Systems
+AI Agents
+MLOps
+Model Deployment
+Production AI
+```
+
+---
+
+## ⚡ Philosophy
+
+> **Learn → Build → Break → Understand → Rebuild → Deploy**
+
+I believe the fastest way to understand AI is to **build real systems**, not just consume tutorials.
+
+---
+
+<div align="center">
+
+### 🚀 Building. Learning. Shipping.
+
+**Thanks for visiting my profile!**
+
+[![GitHub](https://img.shields.io/badge/GitHub-The--ml--guy-101010?style=for-the-badge\&logo=github)](https://github.com/The-ml-guy)
 
 </div>
