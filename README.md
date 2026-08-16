@@ -107,15 +107,6 @@ My goal is not just to train models.
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<a href="https://github.com/The-ml-guy">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=The-ml-guy&show_icons=true&hide_border=true&theme=transparent&cache_seconds=86400" />
-</a>
-
-<a href="https://github.com/The-ml-guy">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-ml-guy&layout=compact&hide_border=true&theme=transparent&cache_seconds=86400" />
-</a>
 
 <br><br>
 
@@ -127,17 +118,6 @@ My goal is not just to train models.
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<a href="https://github.com/The-ml-guy">
-  <img src="https://github-profile-trophy.vercel.app/?username=The-ml-guy&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1" />
-</a>
-
-</div>
-
----
 
 ## 🧠 Current Interests
 
