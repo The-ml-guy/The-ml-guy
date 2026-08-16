@@ -109,9 +109,31 @@ My goal is not just to train models.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=The-ml-guy&show_icons=true&theme=transparent&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF" height="170">
+<a href="https://github.com/The-ml-guy">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=The-ml-guy&show_icons=true&hide_border=true&theme=transparent&cache_seconds=86400" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-ml-guy&layout=compact&theme=transparent&hide_border=true&title_color=00F0FF&text_color=FFFFFF" height="170">
+<a href="https://github.com/The-ml-guy">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-ml-guy&layout=compact&hide_border=true&theme=transparent&cache_seconds=86400" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/The-ml-guy">
+  <img src="https://streak-stats.demolab.com?user=The-ml-guy&theme=transparent&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/The-ml-guy">
+  <img src="https://github-profile-trophy.vercel.app/?username=The-ml-guy&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1" />
+</a>
 
 </div>
 
