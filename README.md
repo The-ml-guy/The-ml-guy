@@ -107,8 +107,10 @@ My goal is not just to train models.
 
 ## 📊 GitHub Stats
 
+<div align="center">
 
-<br><br>
+
+<br>
 
 <a href="https://github.com/The-ml-guy">
   <img src="https://streak-stats.demolab.com?user=The-ml-guy&theme=transparent&hide_border=true" />
